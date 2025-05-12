@@ -12,3 +12,5 @@ type Opening struct {
 	Link    string
 	Salary  int64
 }
+
+
